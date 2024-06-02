@@ -1,4 +1,4 @@
-## Hi there 👋
+## 0xSpearmint's Portfolio 
 
 <!--
 **0xSpearmint/0xSpearmint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
