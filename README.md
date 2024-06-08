@@ -1,5 +1,8 @@
 ## Spearmint's Portfolio 
 
+### Highlights
+- Reached #27 on Cantina's all time leaderboard
+
 <!--
 **0xSpearmint/0xSpearmint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
