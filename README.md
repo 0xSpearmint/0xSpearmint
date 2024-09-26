@@ -12,3 +12,4 @@
 | [Jala Swap ](https://audits.sherlock.xyz/contests/233)| DEX, UniV2 fork |**Joint #5**/235 | [1M]() |
 | [Renzo](https://code4rena.com/audits/2024-04-renzo) | Liquid Restaking, Eigenalyer intergrations         | **#17**/122 | [4H]()      |
 | [ZeroLend](https://code4rena.com/audits/2024-04-renzo) | Lending, AAVE fork         |PENDING | PENDING      |
+| [LoopFi](https://code4rena.com/audits/2024-04-renzo) | Lending, Gearbox and Radiant fork        |PENDING | PENDING      |
