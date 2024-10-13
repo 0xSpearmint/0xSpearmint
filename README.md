@@ -1,5 +1,5 @@
 ### About Me
-I am a smart contract security researcher.
+I am an independent security researcher.
 
 ### Highlights
 - Reached #27 on Cantina's all time leaderboard
