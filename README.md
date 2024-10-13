@@ -1,9 +1,10 @@
-## About Me
+### About Me
+I am a smart contract security researcher.
 
 ### Highlights
 - Reached #27 on Cantina's all time leaderboard
 
-## Competitive audits
+### Competitive audits
 
 | Contest        | Platform  | Category                                   | Ranking 🏆     | Findings |
 |----------------|-----------|-------------------------------------------|----------------|----------|
