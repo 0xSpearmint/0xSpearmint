@@ -6,7 +6,7 @@ I am an independent security researcher.
 
 ### Competitive audits
 
-| Contest        | Platform  | Category                                   | Ranking 🏆     | Findings |
+| Contest        | Platform  | Category                                   | Ranking      | Findings |
 |----------------|-----------|-------------------------------------------|----------------|----------|
 | [Goat Tech](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/leaderboard)    | Cantina   | SocialFI, Staking                          | **#2**/244 🥈  | [7H, 3M](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/leaderboard) |
 | [SentimentV2](https://audits.sherlock.xyz/contests/349?filter=results)    | Sherlock   | Lending                          | **#3**/357 🥉  | [1H, 7M](https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues?q=is%3Aissue+Obsidian+label%3Areward+sort%3Acreated-asc) |
