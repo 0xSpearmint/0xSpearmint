@@ -1,4 +1,4 @@
-## Spearmint's Portfolio 
+## About Me
 
 ### Highlights
 - Reached #27 on Cantina's all time leaderboard
