@@ -1,6 +1,8 @@
 ### About Me
 I am an independent security researcher.
 
+For private audits or security consulting, please reach out to me on Twitter [@0xSpearmint](https://x.com/0xSpearmint).
+
 ### Highlights
 - Reached #27 on Cantina's all time leaderboard
 
