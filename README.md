@@ -18,3 +18,4 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 | [LoopFi]()       | Code4rena          | Lending, Gearbox and Radiant fork          | PENDING        | PENDING  |
 
 
+### Private audits
