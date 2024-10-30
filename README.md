@@ -17,5 +17,3 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 | [Jala Swap](https://audits.sherlock.xyz/contests/233)    | Sherlock  | DEX, UniV2 fork                            | **Joint #5**/235| [1M](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/132)    |
 | [LoopFi]()       | Code4rena          | Lending, Gearbox and Radiant fork          | PENDING        | PENDING  |
 
-
-### Private audits
