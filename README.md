@@ -15,8 +15,8 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 | [SentimentV2](https://audits.sherlock.xyz/contests/349?filter=results)    | Sherlock   | Lending                          | **#3**/357 🥉  | [1H, 7M](https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues?q=is%3Aissue+Obsidian+label%3Areward+sort%3Acreated-asc) |
 | [Pool Together](https://audits.sherlock.xyz/contests/225)| Sherlock  | Prize-Linked Savings Account, Yield farming| **#5**/168     | [1H, 5M](https://github.com/sherlock-audit/2024-05-pooltogether-judging/issues?q=is%3Aissue+is%3Aclosed+0xspearmint1+label%3AReward) |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233)    | Sherlock  | DEX, UniV2 fork                            | **Joint #5**/235| [1M](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/132)    |
-| [UniswapV4]()    | Cantina  | DEX, UniV2 fork                            | Pending| Pending    |
-| [Infinity Pools]()    | Cantina  | DEX, UniV2 fork                            | Pending| Pending    |
-| [Angstorm]()    | Cantina  | DEX, UniV2 fork                            | Pending| Pending    |
+| [UniswapV4]()    | Cantina  | Concentrated Liquidty AMM                          | Pending| Pending    |
+| [Infinity Pools]()    | Cantina  | DEX that supports leverage trading       | Pending| Pending    |
+| [Angstorm]()    | Cantina  | UniswapV4 hook that implements a hybrid DEX/limit order book                            | Pending| Pending    |
 
 ### Private Audits
