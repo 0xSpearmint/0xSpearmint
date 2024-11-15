@@ -6,7 +6,7 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 ### Highlights
 - Reached #27 on Cantina's all time leaderboard
 
-### Competitive audits
+### Competitive Audits
 
 | Contest        | Platform  | Category                                   | Ranking      | Findings |
 |----------------|-----------|-------------------------------------------|----------------|----------|
@@ -16,3 +16,4 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 | [Pool Together](https://audits.sherlock.xyz/contests/225)| Sherlock  | Prize-Linked Savings Account, Yield farming| **#5**/168     | [1H, 5M](https://github.com/sherlock-audit/2024-05-pooltogether-judging/issues?q=is%3Aissue+is%3Aclosed+0xspearmint1+label%3AReward) |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233)    | Sherlock  | DEX, UniV2 fork                            | **Joint #5**/235| [1M](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/132)    |
 
+### Private Audits
