@@ -1,5 +1,5 @@
 ### About Me
-I am an independent security researcher.
+I'm an independent security researcher.
 
 For private audits or security consulting, reach out to me on Twitter [@0xSpearmint](https://x.com/0xSpearmint).
 
