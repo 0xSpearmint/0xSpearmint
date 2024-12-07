@@ -28,3 +28,9 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 | [Angstorm](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940)    | Cantina  | UniswapV4 hook that implements a hybrid DEX/limit order book                            | Pending| Pending    |
 
 ### Private Audits
+
+| Protocol | Category | Report | 
+|Tally|----------|Private| 
+|Launchbox|----------|Pending| 
+
+
