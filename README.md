@@ -32,6 +32,6 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 | Protocol | Category | Report | 
 |----------|----------|--------| 
 |[Tally](https://www.tally.xyz/)|Governance Staking Rewards |Private| 
-|Launchbox Exchange|ERC-20 Token Launchpad|Pending| 
+|[Launchbox](https://github.com/metastable-labs/contracts)|ERC-20 Token Launchpad|Pending| 
 
 
