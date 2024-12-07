@@ -30,6 +30,7 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 ### Private Audits
 
 | Protocol | Category | Report | 
+|----------|----------|--------| 
 |Tally|----------|Private| 
 |Launchbox|----------|Pending| 
 
