@@ -7,13 +7,6 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 - Reached #15 on Cantina's all time leaderboard
 - Reached #17 on Sherlock's leaderboard and became [lead senior watson](https://x.com/0xSpearmint/status/1851908819212996715)
 
-### Bug Bounties
-As a team with [@0xJuaan](https://github.com/0xjuaan)
-| Protocol | Category | Severity | Report |
-|----------|----------|--------| --------|
-|[FraxLend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|Critical| Private|
-                  
-
 ### Competitive Audits
 
 | Contest        | Platform  | Category                                   | Ranking      | Findings |
@@ -25,6 +18,12 @@ As a team with [@0xJuaan](https://github.com/0xjuaan)
 | [Pool Together](https://audits.sherlock.xyz/contests/225)| Sherlock  | Prize-Linked Savings Account, Yield farming| **#5**/168     | [1H, 5M](https://github.com/sherlock-audit/2024-05-pooltogether-judging/issues?q=is%3Aissue+is%3Aclosed+0xspearmint1+label%3AReward) |
 | [Jala Swap](https://audits.sherlock.xyz/contests/233)    | Sherlock  | DEX, UniV2 fork                            | **Joint #5**/235| [1M](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/132)    |
 | [UniswapV4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659)    | Cantina  | Concentrated Liquidity AMM                          | **#6**/482| [2M]()    |
+
+### Bug Bounties
+As a team with [@0xJuaan](https://github.com/0xjuaan)
+| Protocol | Category | Severity | Report |
+|----------|----------|--------| --------|
+|[FraxLend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|Critical| Private|
 
 ### Private Audits
 
