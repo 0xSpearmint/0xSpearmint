@@ -8,7 +8,7 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 - Reached #17 on Sherlock's leaderboard and became [lead senior watson](https://x.com/0xSpearmint/status/1851908819212996715)
 
 ### Bug Bounties
-
+As a team with [@0xJuaan](https://github.com/0xjuaan)
 | Protocol | Category | Severity | Report |
 |----------|----------|--------| --------|
 |[FraxLend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|Critical| Private|
