@@ -32,6 +32,6 @@ FraxLend bounty was as a team with [@0xJuaan](https://github.com/0xjuaan)
 |----------|----------|--------| 
 |[Tally](https://www.tally.xyz/)|Governance Staking Rewards |[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf)| 
 |[Launchbox](https://github.com/metastable-labs/contracts)|ERC-20 Token Launchpad|Pending| 
-|[Ambient Finance]([https://github.com/metastable-labs/contracts](https://ambient.finance/))|Concentrated Liquidity AMM|Pending| 
+|[Ambient Finance](https://github.com/metastable-labs/contracts](https://ambient.finance/))|Concentrated Liquidity AMM|Pending| 
 
 
