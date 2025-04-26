@@ -5,7 +5,8 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 
 ### Highlights
 - Reached #15 on Cantina's all time leaderboard
-- Reached #16 on Sherlock's leaderboard and became [lead senior watson](https://x.com/0xSpearmint/status/1851908819212996715)
+- Reached #7 on Sherlock's leaderboard
+- Became [lead senior watson](https://x.com/0xSpearmint/status/1851908819212996715)
 
 ### Competitive Audits
 
@@ -23,7 +24,7 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 ### Bug Bounties
 | Protocol | Category | Severity |
 |----------|----------|--------| 
-|[FraxLend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|Critical| 
+|[FraxLend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|High| 
 
 FraxLend bounty was as a team with [@0xJuaan](https://github.com/0xjuaan)
 
