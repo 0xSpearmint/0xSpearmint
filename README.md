@@ -1,5 +1,5 @@
 ### About Me
-I'm an independent security researcher.
+Securing smart contracts at [Obsidian Audits](https://github.com/ObsidianAudits)
 
 For private audits or security consulting, reach out to me on Twitter [@0xSpearmint](https://x.com/0xSpearmint) or Telegram [@spearmintSR](https://t.me/spearmintSR).
 
