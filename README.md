@@ -35,7 +35,11 @@ FraxLend bounty was as a team with [@0xJuaan](https://github.com/0xjuaan)
 
 | Protocol | Category | Report | 
 |----------|----------|--------| 
-|[Tally](https://www.tally.xyz/)|Governance Staking Rewards |[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf)| 
-|[Ambient Finance](https://ambient.finance/)|Concentrated Liquidity AMM|Private| 
+|[Tally](https://www.tally.xyz/)|Governance staking rewards |[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf)| 
+|[Ambient Finance](https://ambient.finance/)|Concentrated liquidity AMM|Private| 
+| [Tenor Finance](https://x.com/TenorFinance) |AMM and UniV4 hook | Private |
+| [Tenor Finance](https://x.com/TenorFinance) |Fixed rate lending platform| Private |
+| [Hyperdrive](https://x.com/Hyperdrivedefi) |Lending markets on hyperliquid|[Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-hyperdrive-markets.pdf) |
+| [Pump Science](https://x.com/pumpdotscience) | Token launchpad on Solana | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-pump-science.pdf)
 
 
