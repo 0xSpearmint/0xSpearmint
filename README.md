@@ -25,9 +25,9 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 | [UniswapV4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659)    | Cantina  | Concentrated Liquidity AMM                          | **#6**/482| 2M    |
 
 ### Bug Bounties
-| Protocol | Category | Severity |
-|----------|----------|--------| 
-|[FraxLend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|High| 
+| Protocol | Category | Severity | Writeup |
+|----------|----------|----------|---------|
+|[Fraxlend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|High| [Writeup](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)|
 
 FraxLend bounty was as a team with [@0xJuaan](https://github.com/0xjuaan)
 
