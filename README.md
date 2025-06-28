@@ -24,6 +24,19 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 | [Jala Swap](https://audits.sherlock.xyz/contests/233)    | Sherlock  | DEX, UniV2 fork                            | **#5**/235| [1M](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/132)    |
 | [UniswapV4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659)    | Cantina  | Concentrated Liquidity AMM                          | **#6**/482| 2M    |
 
+### Bug Bounties
+| Protocol | Category | Severity | Writeup |
+|----------|----------|----------|---------|
+|[Fraxlend](https://app.frax.finance/fraxlend/available-pairs)|Isolated Lending|High| [Writeup](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)|
 
+### Private Audits
 
+| Protocol | Category | Report | 
+|----------|----------|--------| 
+|[Tally](https://www.tally.xyz/)|Governance staking rewards |[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf)| 
+|[Ambient Finance](https://ambient.finance/)|Concentrated liquidity AMM|Private| 
+| [Tenor Finance](https://x.com/TenorFinance) |AMM and UniV4 hook | Private |
+| [Tenor Finance](https://x.com/TenorFinance) |Fixed rate lending platform| Private |
+| [Hyperdrive](https://x.com/Hyperdrivedefi) |Lending markets on hyperliquid|[Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-hyperdrive-markets.pdf) |
+| [Pump Science](https://x.com/pumpdotscience) | Token launchpad on Solana | [Report](https://github.com/ObsidianAudits/audits/blob/main/2025-05-pump-science.pdf)
 
