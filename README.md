@@ -5,7 +5,7 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 
 ### Highlights
 - Reached #15 on Cantina's all time leaderboard
-- Reached #7 on Sherlock's leaderboard
+- Reached #6 on Sherlock's leaderboard
 - Became [lead senior watson](https://x.com/0xSpearmint/status/1851908819212996715)
 
 ### Competitive Audits
