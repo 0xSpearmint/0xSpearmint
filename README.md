@@ -12,9 +12,9 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 
 | Contest        | Platform  | Category                                   | Ranking      | Findings |
 |----------------|-----------|-------------------------------------------|----------------|----------|
-| [Yearn yBOLD](https://code4rena.com/audits/2025-01-pump-science)   | Sherlock  | Auto Compounding Vaults  | **#1**/355 🥇| [2H](https://audits.sherlock.xyz/contests/977/report)    |
+| [Yearn yBOLD](https://audits.sherlock.xyz/contests/977)   | Sherlock  | Auto Compounding Vaults  | **#1**/355 🥇| [2H](https://audits.sherlock.xyz/contests/977/report)    |
 | [Pump fun](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard)   | Cantina  | Bonding curve and AMM on Solana                | **#1**/435 🥇| 1M  |
-| [Private Contest](https://audits.sherlock.xyz/contests/845)    | Sherlock  | Private Contest                       | **#1**/10 🥇| 1M    |
+| [Wormhole](https://audits.sherlock.xyz/contests/845)    | Sherlock  | Cross chain Governance and Token Vesting         | **#1**/10 🥇| 1M    |
 | [Pump Science](https://code4rena.com/audits/2025-01-pump-science)   | Code4rena  | Solana Token Launchpad                    | **#1**/58 🥇| [2H, 1M](https://code4rena.com/reports/2025-01-pump-science)    |
 | [Infinity Pools](https://cantina.xyz/competitions/5617fffa-4b67-42a7-a9f5-dad93627faa3)    | Cantina  | 	Perpetuals DEX       | **#2**/395 🥈| [4H, 1M](https://cantina.xyz/competitions/5617fffa-4b67-42a7-a9f5-dad93627faa3/leaderboard)    |
 | [Goat Tech](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/leaderboard)    | Cantina   | SocialFI, Staking                          | **#2**/244 🥈  | [7H, 3M](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80/leaderboard) |
