@@ -12,4 +12,5 @@ For private audits or security consulting, reach out to me on Twitter [@0xSpearm
 ### Security Work
 View my security portfolio including private audits, audit contests, and bounties [here](https://github.com/0xSpearmint/Audits)
 
-### open Source Work
+### Open Source Work
+Core contributor to [hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib), the all-in-one library and testing framework to seamlessly build smart contracts on HyperEVM
